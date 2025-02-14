@@ -6,7 +6,7 @@ set(SOURCES
         Game/Field.cpp
 )
 
-add_executable(stratego_cpp_cpp_davidszoki ${SOURCES})
+add_executable(Stratego ${SOURCES})
 
 # Find SDL2 and SDL2_image
 find_package(SDL2 CONFIG REQUIRED)
@@ -14,7 +14,7 @@ find_package(SDL2_image CONFIG REQUIRED)
 
 
 # Link SDL2 and SDL2_image libraries
-target_link_libraries(stratego_cpp_cpp_davidszoki
+target_link_libraries(Stratego
         PRIVATE
         SDL2::SDL2main   # SDL2 main function library
         SDL2::SDL2       # SDL2 library

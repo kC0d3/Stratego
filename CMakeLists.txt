@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.28)
 
-project(cpp_satelite_sniffer_cpp_davidszoki)
+project(Stratego)
 
 set(CMAKE_CXX_STANDARD 17)
 
