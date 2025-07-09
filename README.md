@@ -38,8 +38,8 @@
 ## About The Project
 <a name="about-the-project"></a>
 
-The application represent Stratego board game digitalized version.</br>
-Read more about Stratego here: https://en.wikipedia.org/wiki/Stratego
+This application is a digital version of the classic board game Stratego. It brings the traditional strategy game to an interactive digital format, allowing players to enjoy the experience virtually. The game mechanics, rules, and objectives follow the original board game.
+Learn more about Stratego here: [Stratego – Wikipedia](https://en.wikipedia.org/wiki/Stratego)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
